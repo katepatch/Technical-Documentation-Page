@@ -7,6 +7,7 @@
 ## Preview
 
 Deployed via Github [pages](https://katepatch.github.io/Technical-Documentation-Page/)
+
 ## Screenshot
 
 ![screenshot](./assets/documentation%20page.png)

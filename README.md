@@ -4,14 +4,14 @@
 
  Please note that this is to showcase skill and not so much what is written on the page.  In future development I will update to make it more of a true documentation page.  
 
- ## Preview
+## Preview
 
 Deployed via Github [pages](https://katepatch.github.io/Technical-Documentation-Page/)
- ## Screenshot
+## Screenshot
 
 ![screenshot](./assets/documentation%20page.png)
 
- ## Questions
+## Questions
 
  For questions regarding this project or any others I can be reached at:</br>
  Github: [katepatch](https://github.com/katepatch)</br>
